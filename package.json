@@ -1,12 +1,12 @@
 {
   "name": "trino-cubejs-driver",
   "description": "Cube.js trino database driver",
-  "author": "rongfengliang",
+  "author": "iamulum",
   "version": "1.0.0",
   "public": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/rongfengliang/cubejs-trino-driver"
+    "url": "https://github.com/iamulum/cubejs-trino-driver"
   },
   "engines": {
     "node": ">=10.8.0"
