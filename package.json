@@ -1,5 +1,5 @@
 {
-  "name": "trino-cubejs-backend-driver",
+  "name": "@iamulum/trino-cubejs-driver",
   "description": "Cube.js trino database driver",
   "author": "iamulum",
   "version": "1.0.0",
