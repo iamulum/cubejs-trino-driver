@@ -35,7 +35,7 @@ class PrestodbQuery extends BaseQuery {
 
   constructor(compilers, options){
     // diable timezone 
-     delete options.timezone
+    //  delete options.timezone
      super(compilers,options)
   }
   timeStampParam() {

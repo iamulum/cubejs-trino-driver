@@ -2,7 +2,7 @@
   "name": "@iamulum/trino-cubejs-driver",
   "description": "Cube.js trino database driver",
   "author": "iamulum",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "public": true,
   "repository": {
     "type": "git",
